@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="WindowsServiceCore.ServiceConfig">
+    <Position X="2" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAgAIAAAIAAAAAAAAAAAIAAAAAAAAAAAAA=</HashCode>
+      <FileName>ServiceConfig.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsServiceCore.ServiceJob">
+    <Position X="4" Y="1" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAIACAACAAAAAAAAAAAAAAAAAACAAAIAAMAAAAEAA=</HashCode>
+      <FileName>ServiceJob.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsServiceCore.ServiceTools">
+    <Position X="7" Y="1" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAAAAACACAAAAEAAABAAAAAAAEAAAAAAAAAAAAA=</HashCode>
+      <FileName>ServiceTools.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Font Name="Microsoft YaHei" Size="9" />
+</ClassDiagram>
